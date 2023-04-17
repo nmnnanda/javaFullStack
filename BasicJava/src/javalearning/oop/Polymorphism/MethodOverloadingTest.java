@@ -26,5 +26,9 @@ public class MethodOverloadingTest {
 		a.area(22.5f);
 
 	}
+	
+	public static void main(Integer[] args){
+		
+	}
 
 }
