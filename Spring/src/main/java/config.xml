@@ -1,0 +1,99 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="bank" class="com.learning.Spring.Bank">
+		<constructor-arg ref="pnb" />
+	</bean>
+
+	<bean id="sbi" class="com.learning.Spring.SBI" />
+	<bean id="pnb" class="com.learning.Spring.PNB" />
+	<bean id="iob" class="com.learning.Spring.IOB" />
+
+	<!-- setter injection -->
+	<bean id="address"
+		class="com.learning.Spring.SetterInjection.referenceType.Address">
+		<property name="city" value="Bangalore" />
+		<property name="state" value="Karnataka" />
+		<property name="country" value="India" />
+	</bean>
+
+
+	<bean id="student"
+		class="com.learning.Spring.SetterInjection.referenceType.Student">
+		<property name="studentId">
+			<value>101</value>
+		</property>
+
+		<property name="studentName">
+			<value>Amit</value>
+		</property>
+
+		<property name="course_enrolled">
+			<value>Java</value>
+		</property>
+
+		<property name="address" ref="address" />
+
+	</bean>
+
+	<bean id="category"
+		class="com.learning.Spring.SetterInjection.collectionType.Category">
+		<property name="categoryId">
+			<value>101</value>
+		</property>
+		<property name="categoryName">
+			<value>Electronic Goods</value>
+		</property>
+		<property name="products">
+			<list>
+				<value>Mobiles</value>
+				<value>Laptops</value>
+				<value>Televisions</value>
+			</list>
+		</property>
+	</bean>
+
+	<bean id="mobiles"
+		class="com.learning.Spring.SetterInjection.collectionType.Products">
+		<property name="productId">
+			<value>1001</value>
+		</property>
+		<property name="productName">
+			<value>Mobiles</value>
+		</property>
+	</bean>
+
+	<bean id="laptops"
+		class="com.learning.Spring.SetterInjection.collectionType.Products">
+		<property name="productId">
+			<value>1002</value>
+		</property>
+		<property name="productName">
+			<value>Laptops</value>
+		</property>
+	</bean>
+	<bean id="category2"
+		class="com.learning.Spring.SetterInjection.collectionType.Category2">
+		<property name="categoryId">
+			<value>101</value>
+		</property>
+		<property name="categoryName">
+			<value>Electronic Product</value>
+		</property>
+		<property name="products">
+			<list>
+				<ref bean="mobiles" />
+				<ref bean="laptops" />
+			</list>
+
+		</property>
+	</bean>
+
+ <bean id="emp" class="com.learning.Spring.SetterInjection.p_namespace.Employee" p:empId="101" p:empName="Amit"/>
+</beans>

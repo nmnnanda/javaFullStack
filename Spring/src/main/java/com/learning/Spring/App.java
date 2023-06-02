@@ -19,7 +19,7 @@ public class App
     	
     	//Using Spring:
     	ApplicationContext context = new 
-    			ClassPathXmlApplicationContext("applicationContext.xml");
+    			ClassPathXmlApplicationContext("config.xml");
     	Bank bank =  (Bank) context.getBean("bank");
     	bank.service();
     	
