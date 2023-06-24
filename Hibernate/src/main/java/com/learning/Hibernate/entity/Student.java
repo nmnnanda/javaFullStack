@@ -1,52 +1,64 @@
 package com.learning.Hibernate.entity;
 
-//POJO 
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "students")
 public class Student {
 
-	private int studentId;
-	private String studentName;
-	private String course_enrolled;
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "student_id")
+    private int studentId;
 
-	public Student() {
-		super();
-		// TODO Auto-generated constructor stub
-	}
+    @Column(name = "student_name")
+    private String studentName;
 
-	public Student(int studentId, String studentName, String course_enrolled) {
-		super();
-		this.studentId = studentId;
-		this.studentName = studentName;
-		this.course_enrolled = course_enrolled;
-	}
+    @Column(name = "course_enrolled")
+    private String courseEnrolled;
 
-	public int getStudentId() {
-		return studentId;
-	}
+    public Student() {
+        super();
+    }
 
-	public void setStudentId(int studentId) {
-		this.studentId = studentId;
-	}
+    public Student(String studentName, String courseEnrolled) {
+        super();
+        this.studentName = studentName;
+        this.courseEnrolled = courseEnrolled;
+    }
 
-	public String getStudentName() {
-		return studentName;
-	}
+    public int getStudentId() {
+        return studentId;
+    }
 
-	public void setStudentName(String studentName) {
-		this.studentName = studentName;
-	}
+    public void setStudentId(int studentId) {
+        this.studentId = studentId;
+    }
 
-	public String getCourse_enrolled() {
-		return course_enrolled;
-	}
+    public String getStudentName() {
+        return studentName;
+    }
 
-	public void setCourse_enrolled(String course_enrolled) {
-		this.course_enrolled = course_enrolled;
-	}
+    public void setStudentName(String studentName) {
+        this.studentName = studentName;
+    }
 
-	@Override
-	public String toString() {
-		return "Student [studentId=" + studentId + ", studentName=" + studentName + ", course_enrolled="
-				+ course_enrolled + "]";
-	}
+    public String getCourseEnrolled() {
+        return courseEnrolled;
+    }
 
+    public void setCourseEnrolled(String courseEnrolled) {
+        this.courseEnrolled = courseEnrolled;
+    }
+
+    @Override
+    public String toString() {
+        return "Student [studentId=" + studentId + ", studentName=" + studentName + ", courseEnrolled="
+                + courseEnrolled + "]";
+    }
 }

@@ -10,7 +10,7 @@ public class Main {
 		atm.setNext(creditCard);
 		creditCard.setNext(cheque);
 		
-		atm.handlePayment(1200);
+		atm.handlePayment(1000);
 		
 		
 
