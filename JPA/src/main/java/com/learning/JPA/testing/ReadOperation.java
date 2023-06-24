@@ -5,7 +5,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
 import com.learning.JPA.entity.Employee;
-
+ 
 public class ReadOperation {
 
 	public static void main(String[] args) {

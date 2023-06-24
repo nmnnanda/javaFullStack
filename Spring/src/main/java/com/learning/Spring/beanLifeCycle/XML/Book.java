@@ -1,4 +1,4 @@
-package com.learning.Spring.beanLifeCycle.XML;
+ package com.learning.Spring.beanLifeCycle.XML;
 
 public class Book {
     private int bookId;

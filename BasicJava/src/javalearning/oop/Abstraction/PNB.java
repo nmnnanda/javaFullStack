@@ -5,3 +5,4 @@ public class PNB implements RBI{
     	System.out.println("PNB Bank");
     }
 }
+ 

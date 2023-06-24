@@ -1,4 +1,4 @@
-package com.behaviouralDesignPattern.chainOfResponsibility;
+ package com.behaviouralDesignPattern.chainOfResponsibility;
 
 public class ATM extends PaymentHandler{
    

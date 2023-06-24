@@ -1,4 +1,4 @@
-package com.learning.Spring.SetterInjection.primitiveType;
+ package com.learning.Spring.SetterInjection.primitiveType;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

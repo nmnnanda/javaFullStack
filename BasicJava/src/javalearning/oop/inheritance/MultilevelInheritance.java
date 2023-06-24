@@ -1,4 +1,4 @@
-package javalearning.oop.inheritance;
+ package javalearning.oop.inheritance;
 
 class GP{
 	int a = 10;

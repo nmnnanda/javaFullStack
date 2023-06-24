@@ -1,4 +1,4 @@
-package com.learning.Spring;
+ package com.learning.Spring;
 
 public interface RBI {
    void policy();

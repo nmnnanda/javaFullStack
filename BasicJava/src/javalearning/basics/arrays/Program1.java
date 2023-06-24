@@ -1,4 +1,4 @@
-package javalearning.basics.arrays;
+ package javalearning.basics.arrays;
 
 
 //passing an array to function

@@ -1,4 +1,4 @@
-package com.learning.Spring.SetterInjection.p_namespace;
+ package com.learning.Spring.SetterInjection.p_namespace;
 
 public class Employee {
 	private int empId;

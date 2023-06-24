@@ -1,4 +1,4 @@
-package javalearning.MultiThreading;
+ package javalearning.MultiThreading;
 
 class Resource{
 	public static final String resource1 = "Pen";

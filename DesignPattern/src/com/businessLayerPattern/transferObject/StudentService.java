@@ -1,4 +1,4 @@
-package com.businessLayerPattern.transferObject;
+ package com.businessLayerPattern.transferObject;
 
 import java.util.ArrayList;
 import java.util.List;

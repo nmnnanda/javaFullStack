@@ -1,4 +1,4 @@
-package javalearning.basics.multi_dimesional_array;
+ package javalearning.basics.multi_dimesional_array;
 
 public class Two_Dimensional_Array {
 

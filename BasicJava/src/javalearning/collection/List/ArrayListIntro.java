@@ -17,7 +17,7 @@ public class ArrayListIntro {
 	      list.add(null);
 	      
 	      //list of integers
-	      List<Integer> list2 = new ArrayList<>();
+	       List<Integer> list2 = new ArrayList<>();
 	      list2.add(1);
 	      list2.add(new Integer(2));
 	      list2.add(3);

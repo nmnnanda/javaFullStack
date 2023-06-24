@@ -1,4 +1,4 @@
-package com.learning.Spring.constructorInjection.primitiveType;
+ package com.learning.Spring.constructorInjection.primitiveType;
 
 public class Vehicle {
    private int vehicleId;

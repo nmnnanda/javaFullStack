@@ -1,4 +1,4 @@
-package com.businessLayerPattern.transferObject;
+ package com.businessLayerPattern.transferObject;
 
 public class Student {
 	private int studentId;

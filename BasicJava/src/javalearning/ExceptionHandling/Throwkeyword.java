@@ -1,4 +1,4 @@
-package javalearning.ExceptionHandling;
+ package javalearning.ExceptionHandling;
 
 class Calculation{
 	public static void doCalculation(int num){

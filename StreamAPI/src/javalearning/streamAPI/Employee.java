@@ -4,7 +4,7 @@ public class Employee {
 	private int empId;
 	private String empName;
 	private int salary;
-	public Employee(int empId, String empName, int salary) {
+	public Employee(int empId, String empName, int salary)  {
 		super();
 		this.empId = empId;
 		this.empName = empName;

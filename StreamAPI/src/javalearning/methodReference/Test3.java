@@ -1,4 +1,4 @@
-package javalearning.methodReference;
+ package javalearning.methodReference;
 //Refering to static method
 
 @FunctionalInterface

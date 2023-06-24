@@ -47,7 +47,7 @@ class T2 extends Thread{
 		try {
 			td.printTable(num);
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
+			// TODO Auto-generated catch bl ock
 			e.printStackTrace();
 		}
 	}

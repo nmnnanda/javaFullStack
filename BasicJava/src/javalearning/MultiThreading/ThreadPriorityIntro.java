@@ -10,6 +10,7 @@ class A extends Thread{
 	}
 }
 
+
 class B extends Thread{
 	public void run(){
 		System.out.println("B started");

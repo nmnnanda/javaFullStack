@@ -1,4 +1,4 @@
-package com.learning.Spring.autowiring.byName;
+ package com.learning.Spring.autowiring.byName;
 
 public class Dept {
    private int id;

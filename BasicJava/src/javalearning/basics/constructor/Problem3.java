@@ -1,4 +1,4 @@
-package javalearning.basics.constructor;
+ package javalearning.basics.constructor;
 
 class B{
 	int b;

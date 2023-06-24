@@ -16,7 +16,7 @@
     <property name="bookName" value="Java:The Complete Reference"/>
     <property name="bookAuthor" value="Varun"/>
    </bean>
-   -->
+   --> 
    <bean id="book" 
    class="com.learning.Spring.beanLifeCycle.XML.Book" 
     init-method="initMethod" destroy-method="destroyMethod">

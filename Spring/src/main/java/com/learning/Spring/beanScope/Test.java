@@ -1,4 +1,4 @@
-package com.learning.Spring.beanScope;
+ package com.learning.Spring.beanScope;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

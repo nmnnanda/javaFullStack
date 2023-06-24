@@ -1,4 +1,4 @@
-package javalearning.basics.stringbuffer;
+ package javalearning.basics.stringbuffer;
 
 public class Problem1 {
 

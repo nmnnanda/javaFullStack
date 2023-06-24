@@ -1,4 +1,4 @@
-package com.learning.Spring.autowiring.byType;
+ package com.learning.Spring.autowiring.byType;
 
 public class Course {
    public void m2(){

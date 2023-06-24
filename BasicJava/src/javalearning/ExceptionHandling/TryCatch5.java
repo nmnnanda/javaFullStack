@@ -1,4 +1,4 @@
-package javalearning.ExceptionHandling;
+ package javalearning.ExceptionHandling;
 
 public class TryCatch5 {
        public static void display(String str){

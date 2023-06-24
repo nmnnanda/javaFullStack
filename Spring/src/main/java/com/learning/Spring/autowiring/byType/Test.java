@@ -1,4 +1,4 @@
-package com.learning.Spring.autowiring.byType;
+ package com.learning.Spring.autowiring.byType;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

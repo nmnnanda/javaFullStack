@@ -16,7 +16,7 @@ public class EncapsIntro {
 //		atm.pin = 5678;
 //		System.out.println(atm.pin);
 		int pin = atm.getPin();
-		System.out.println(pin);
+ 		System.out.println(pin);
 		//atm.pin = 5678;
 		
 

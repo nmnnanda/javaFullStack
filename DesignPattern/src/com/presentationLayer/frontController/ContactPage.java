@@ -1,4 +1,4 @@
-package com.presentationLayer.frontController;
+ package com.presentationLayer.frontController;
 
 public class ContactPage {
        public void display(){

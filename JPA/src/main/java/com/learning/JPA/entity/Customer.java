@@ -1,4 +1,4 @@
-package com.learning.JPA.entity;
+ package com.learning.JPA.entity;
 
 import java.util.ArrayList;
 import java.util.List;

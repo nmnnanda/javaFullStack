@@ -1,4 +1,4 @@
-package javalearning.ExceptionHandling;
+ package javalearning.ExceptionHandling;
 
 public class TryCatch4 {
         public static int sum(int []arr){

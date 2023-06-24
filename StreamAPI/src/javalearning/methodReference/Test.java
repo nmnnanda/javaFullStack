@@ -13,7 +13,7 @@ class Service{
 	public void doSomething2(){
 		System.out.println("Nothing to do...");
 	}
-}
+} 
 
 public class Test {
 

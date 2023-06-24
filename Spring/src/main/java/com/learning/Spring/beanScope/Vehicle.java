@@ -1,4 +1,4 @@
-package com.learning.Spring.beanScope;
+ package com.learning.Spring.beanScope;
 
 public class Vehicle {
 	

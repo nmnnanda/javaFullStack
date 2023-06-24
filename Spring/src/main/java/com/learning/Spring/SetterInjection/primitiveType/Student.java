@@ -1,4 +1,4 @@
-package com.learning.Spring.SetterInjection.primitiveType;
+ package com.learning.Spring.SetterInjection.primitiveType;
 
 public class Student {
 	private int studentId;

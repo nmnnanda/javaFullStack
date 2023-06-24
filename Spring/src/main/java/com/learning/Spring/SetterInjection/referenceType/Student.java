@@ -1,4 +1,4 @@
-package com.learning.Spring.SetterInjection.referenceType;
+ package com.learning.Spring.SetterInjection.referenceType;
 
 public class Student {
 	private int studentId;

@@ -1,4 +1,4 @@
-package com.learning.Spring.constructorInjection.referenceType;
+ package com.learning.Spring.constructorInjection.referenceType;
 
 public class Owner {
 	

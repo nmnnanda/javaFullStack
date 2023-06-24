@@ -31,5 +31,6 @@
 
 <mapping class="com.learning.Hibernate.entity.Student" />
 
+
     </session-factory>
 </hibernate-configuration>

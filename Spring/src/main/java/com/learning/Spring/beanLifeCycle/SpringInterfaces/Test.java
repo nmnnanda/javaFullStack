@@ -1,4 +1,4 @@
-package com.learning.Spring.beanLifeCycle.SpringInterfaces;
+ package com.learning.Spring.beanLifeCycle.SpringInterfaces;
 
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

@@ -1,4 +1,4 @@
-package javalearning.oop.encapsultion;
+ package javalearning.oop.encapsultion;
 
 class Car{
 	private int modelId;//0 

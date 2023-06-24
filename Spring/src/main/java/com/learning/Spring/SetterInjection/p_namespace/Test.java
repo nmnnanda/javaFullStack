@@ -1,4 +1,4 @@
-package com.learning.Spring.SetterInjection.p_namespace;
+ package com.learning.Spring.SetterInjection.p_namespace;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

@@ -1,4 +1,4 @@
-package javalearning.basics.decisionControlStatement;
+ package javalearning.basics.decisionControlStatement;
 
 //reverse a number:  = 123456 = 12345*10 +6  12345/10
 public class WhileLoop {

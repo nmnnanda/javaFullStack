@@ -1,4 +1,4 @@
-package com.learning.Spring.javaConfiguration;
+ package com.learning.Spring.javaConfiguration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

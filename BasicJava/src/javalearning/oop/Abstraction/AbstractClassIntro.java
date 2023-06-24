@@ -14,7 +14,7 @@ class FTE extends AccountDept{
 	public void calculateSalary(int bs) {
 		double monthlySalary  =(double) (bs +bs*0.5)*30;
 		System.out.println("FullTimeEmployee "+monthlySalary);
-	}
+ 	}
 	
 }
 

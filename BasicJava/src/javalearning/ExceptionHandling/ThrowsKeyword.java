@@ -1,4 +1,4 @@
-package javalearning.ExceptionHandling;
+ package javalearning.ExceptionHandling;
 //throws = declared exception
 
 public class ThrowsKeyword {

@@ -6,7 +6,7 @@ public class Vehicle {
 	private Owner owner;
 	public Vehicle() {
 		super();
-		// TODO Auto-generated constructor stub
+		// TODO  Auto-generated constructor stub
 	}
 	public Vehicle(int vehicleId, String vehicleName, Owner owner) {
 		super();

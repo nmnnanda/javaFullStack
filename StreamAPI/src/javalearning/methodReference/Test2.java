@@ -1,4 +1,4 @@
-package javalearning.methodReference;
+ package javalearning.methodReference;
 
 @FunctionalInterface
 interface StringUtils{

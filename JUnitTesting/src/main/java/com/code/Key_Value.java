@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class Key_Value {
 	public static String getValue(String key){
-	   Map<String,String> map = new HashMap();
+	   Map<String,String> map = new  HashMap();
 		   map.put("key1", "v1");
 	       map.put("key2", "v2");
 	       map.put("key3", "v3");

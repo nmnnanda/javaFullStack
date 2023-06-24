@@ -1,4 +1,4 @@
-package com.creationalDesignPattern.factoryMethod;
+ package com.creationalDesignPattern.factoryMethod;
 
 public class NotificationManager {
      public Notification createNotification(String serviceName){

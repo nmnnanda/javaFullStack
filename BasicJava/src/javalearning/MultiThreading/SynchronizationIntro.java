@@ -1,4 +1,4 @@
-package javalearning.MultiThreading;
+ package javalearning.MultiThreading;
 
 public class SynchronizationIntro {
 

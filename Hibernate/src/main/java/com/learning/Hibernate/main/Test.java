@@ -1,4 +1,4 @@
-package com.learning.Hibernate.main;
+ package com.learning.Hibernate.main;
 
 public class Test {
 

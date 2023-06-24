@@ -1,4 +1,4 @@
-package javalearning.basics.arrays;
+ package javalearning.basics.arrays;
 
 //WAP to find the sum of elements of an array
 

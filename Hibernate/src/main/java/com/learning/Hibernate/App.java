@@ -1,4 +1,4 @@
-package com.learning.Hibernate;
+ package com.learning.Hibernate;
 
 /**
  * Hello world!

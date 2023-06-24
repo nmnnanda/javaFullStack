@@ -1,4 +1,4 @@
-package com.mockitotest;
+ package com.mockitotest;
 
 public interface StudentService {
    int getTotalMarks();

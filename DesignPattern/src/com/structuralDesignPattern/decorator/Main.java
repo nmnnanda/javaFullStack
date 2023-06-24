@@ -1,4 +1,4 @@
-package com.structuralDesignPattern.decorator;
+ package com.structuralDesignPattern.decorator;
 
 public class Main {
 

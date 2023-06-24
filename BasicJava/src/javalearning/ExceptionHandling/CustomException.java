@@ -1,4 +1,4 @@
-package javalearning.ExceptionHandling;
+ package javalearning.ExceptionHandling;
 
 //custom exception = checked exception if we extends Exception class
 //custom exception = unchecked if we extends RuntimeTimeException class

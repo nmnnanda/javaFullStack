@@ -1,4 +1,4 @@
-package com.learning.Spring.factoryMethod;
+ package com.learning.Spring.factoryMethod;
 
 public class Developer {
 	private static final Developer dev = new Developer();

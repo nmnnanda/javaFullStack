@@ -1,6 +1,6 @@
 package com.learning.Spring;
 
-public class SBI implements RBI {
+public class  SBI implements RBI {
 
 	@Override
 	public void policy() {

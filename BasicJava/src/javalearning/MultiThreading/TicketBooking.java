@@ -15,3 +15,4 @@ public class TicketBooking extends Thread{
 		ticketCounterPortal.bookTicket(passengerName, numberOfSeats);
 	}
 }
+ 

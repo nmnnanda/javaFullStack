@@ -1,4 +1,4 @@
-package com.learning.Spring.autowiring.constructor;
+ package com.learning.Spring.autowiring.constructor;
 
 public class Owner {
 	private int ownerId;

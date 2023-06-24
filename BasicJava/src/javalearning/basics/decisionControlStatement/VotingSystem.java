@@ -1,4 +1,4 @@
-package javalearning.basics.decisionControlStatement;
+ package javalearning.basics.decisionControlStatement;
 
 import java.util.Scanner;
 

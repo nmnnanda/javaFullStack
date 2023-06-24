@@ -10,7 +10,7 @@
 	<bean id="bank" class="com.learning.Spring.Bank">
 		<constructor-arg ref="pnb" />
 	</bean>
-
+ 
 	<bean id="sbi" class="com.learning.Spring.SBI" />
 	<bean id="pnb" class="com.learning.Spring.PNB" />
 	<bean id="iob" class="com.learning.Spring.IOB" />

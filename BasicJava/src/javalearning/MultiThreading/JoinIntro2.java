@@ -1,4 +1,4 @@
-package javalearning.MultiThreading;
+ package javalearning.MultiThreading;
 
 class Counter implements Runnable{
     private int counterValue;

@@ -1,4 +1,4 @@
-package javalearning.oop.inheritance;
+ package javalearning.oop.inheritance;
 
 class Base{
 	int a = 10;

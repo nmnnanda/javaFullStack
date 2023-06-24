@@ -1,4 +1,4 @@
-package javalearning.basics.operators;
+ package javalearning.basics.operators;
 
 public class Problem2 {
    public static String reverse(String str){

@@ -1,4 +1,4 @@
-package com.learning.JPA.entity;
+ package com.learning.JPA.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Embedded;

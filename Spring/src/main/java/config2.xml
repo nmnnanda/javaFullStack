@@ -11,7 +11,7 @@
 	<constructor-arg value="101" type="int"/>
 	<constructor-arg value="Tata Motors"/>
 	</bean>
-	
+	 
 	<bean id="owner" 
      class="com.learning.Spring.constructorInjection.referenceType.Owner">
    <constructor-arg value="123" type="int"/>

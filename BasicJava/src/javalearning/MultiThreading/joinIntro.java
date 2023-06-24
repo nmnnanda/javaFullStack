@@ -1,4 +1,4 @@
-package javalearning.MultiThreading;
+ package javalearning.MultiThreading;
 
 public class joinIntro extends Thread{
 	

@@ -1,4 +1,4 @@
-package com.learning.Spring.beanLifeCycle.XML;
+ package com.learning.Spring.beanLifeCycle.XML;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.AbstractApplicationContext;

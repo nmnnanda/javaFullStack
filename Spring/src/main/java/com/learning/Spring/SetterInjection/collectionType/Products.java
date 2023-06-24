@@ -1,4 +1,4 @@
-package com.learning.Spring.SetterInjection.collectionType;
+ package com.learning.Spring.SetterInjection.collectionType;
 
 public class Products {
     private int productId;

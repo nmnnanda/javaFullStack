@@ -1,4 +1,4 @@
-package com.learning.Spring.javaConfiguration;
+ package com.learning.Spring.javaConfiguration;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

@@ -1,4 +1,4 @@
-package com.learning.Spring.javaConfiguration;
+ package com.learning.Spring.javaConfiguration;
 
 public class Address {
 	private String city;

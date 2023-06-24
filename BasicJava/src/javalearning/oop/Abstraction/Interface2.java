@@ -15,7 +15,7 @@ interface X{
 	 }
 	 
 	
-}
+} 
 
 //interface M{
 //	default void m2(){

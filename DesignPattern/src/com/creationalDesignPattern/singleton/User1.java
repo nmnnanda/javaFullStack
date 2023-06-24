@@ -1,4 +1,4 @@
-package com.creationalDesignPattern.singleton;
+ package com.creationalDesignPattern.singleton;
 
 public class User1 {
    

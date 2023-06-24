@@ -1,4 +1,4 @@
-package javalearning.packageCocept.pack2;
+ package javalearning.packageCocept.pack2;
 
 public class Student {
 

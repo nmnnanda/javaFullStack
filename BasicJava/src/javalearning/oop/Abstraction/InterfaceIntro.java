@@ -11,7 +11,7 @@ interface A{
  
 class B implements A{
 	
-}
+} 
 
 public class InterfaceIntro {
 

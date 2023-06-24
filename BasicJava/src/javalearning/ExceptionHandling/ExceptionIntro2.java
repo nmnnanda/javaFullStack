@@ -1,4 +1,4 @@
-package javalearning.ExceptionHandling;
+ package javalearning.ExceptionHandling;
 
 public class ExceptionIntro2 {
     public void sumOfElements(int []arr){

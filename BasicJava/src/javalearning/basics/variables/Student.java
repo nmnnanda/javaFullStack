@@ -1,4 +1,4 @@
-package javalearning.basics.variables;
+ package javalearning.basics.variables;
 
 public class Student {
 	

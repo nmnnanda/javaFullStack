@@ -1,4 +1,4 @@
-package javalearning.ExceptionHandling;
+ package javalearning.ExceptionHandling;
 //finally block:if exception occured in try block and if we handle 
 //or dont handle,even in that case blocks of code present inside
 //finally will get executed

@@ -1,4 +1,4 @@
-package com.learning.Spring.beanLifeCycle.byAnnotation;
+ package com.learning.Spring.beanLifeCycle.byAnnotation;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;

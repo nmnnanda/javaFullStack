@@ -1,4 +1,4 @@
-package com.learning.Spring.beanLifeCycle.byAnnotation;
+ package com.learning.Spring.beanLifeCycle.byAnnotation;
 
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

@@ -1,4 +1,4 @@
-package javalearning.MultiThreading;
+ package javalearning.MultiThreading;
 
 class Table{
 	public void printTable(int num){

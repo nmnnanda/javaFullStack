@@ -16,7 +16,7 @@
 	 <property name="id" value="101"/>
 	 <property name="name" value="Development"/>
 	 </bean>
-	 
+ 	 
 	 <bean id="emp" class="com.learning.Spring.autowiring.byName.Employee" autowire="byName">
 	 <property name="empId" value="1001"/>
 	 <property name="empName" value="Amit"/>

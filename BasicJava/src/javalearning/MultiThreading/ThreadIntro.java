@@ -1,5 +1,5 @@
 package javalearning.MultiThreading;
-
+ 
 //Thread 
 class Work extends Thread{
 	

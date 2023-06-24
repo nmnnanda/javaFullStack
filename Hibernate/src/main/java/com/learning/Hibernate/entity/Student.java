@@ -1,4 +1,4 @@
-package com.learning.Hibernate.entity;
+  package com.learning.Hibernate.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

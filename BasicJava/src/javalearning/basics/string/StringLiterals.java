@@ -1,4 +1,4 @@
-package javalearning.basics.string;
+ package javalearning.basics.string;
 
 public class StringLiterals {
 

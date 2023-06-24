@@ -1,4 +1,4 @@
-package com.learning.Spring.factoryMethod;
+ package com.learning.Spring.factoryMethod;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

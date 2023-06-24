@@ -1,4 +1,4 @@
-package javalearning.ExceptionHandling;
+ package javalearning.ExceptionHandling;
 
 public class TryCatch3 {
 	 public static void showCharacter(String str){

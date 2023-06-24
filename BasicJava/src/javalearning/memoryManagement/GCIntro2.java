@@ -1,4 +1,4 @@
-package javalearning.memoryManagement;
+ package javalearning.memoryManagement;
 
 //1.Nullifying the object reference
 class Test{

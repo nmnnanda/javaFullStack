@@ -13,7 +13,7 @@ public class Test {
 		Child2 ch2 = new Child2();
 		//System.out.println(ch2.data);
 		ch2.m1();
-	}
+	}  
 	
 	
 

@@ -1,4 +1,4 @@
-package com.learning.JPA.testing;
+ package com.learning.JPA.testing;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

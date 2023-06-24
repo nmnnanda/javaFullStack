@@ -1,4 +1,4 @@
-package com.learning.JPA.OneToOne;
+ package com.learning.JPA.OneToOne;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

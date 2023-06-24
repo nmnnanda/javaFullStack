@@ -17,7 +17,7 @@ class Card{
 public class EncapsIntro2 {
 
 	public static void main(String[] args) {
-		Card card1 = new Card();
+		 Card card1 = new Card();
 		card1.setPin(1234);
 		Card card2 = new Card();
 		card2.setPin(5678);
