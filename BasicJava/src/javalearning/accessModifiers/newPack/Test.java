@@ -14,5 +14,7 @@ public class Test {
 		//System.out.println(ch2.data);
 		ch2.m1();
 	}
+	
+	
 
 }

@@ -8,3 +8,5 @@ public class Child2 extends A{
     	System.out.println("Calling from Child2");
     }
 }
+
+
